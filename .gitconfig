@@ -1,0 +1,27 @@
+# ===============================================================
+# Filename: $HOME/.gitconfig
+# Purpose: Setup file for program " git "
+# Last Update: 2013.01.01
+# Author: Yusuke Watanabe < yusuke.w62@gmail.com >
+# ===============================================================
+
+[user]
+    name = yusukew62
+    email = yusuke.w62@gmail.com
+
+[core]
+    excludesfile = $HOME/.gitignore
+    pager = less
+    editor = vim
+
+[color]
+    diff = auto
+    status = auto
+    branch = auto
+    interactive = auto
+    ui = auto
+
+[github]
+    user = yusukew62
+    email = yusuke.w62@gmail.com
+

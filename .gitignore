@@ -1,0 +1,16 @@
+# ===============================================================
+# Filename: $HOME/.gitignore
+# Purpose: Setup file for program " git "
+# Last Update: 2013.01.01
+# Author: Yusuke Watanabe < yusuke.w62@gmail.com >
+# ===============================================================
+
+*.diff
+*.err
+*.org
+*.log
+*.swo
+*.swp
+.DS_Store
+Thumbs.db
+
